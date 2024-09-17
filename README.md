@@ -6,6 +6,11 @@ return function Helloooooo()
 end
 ```
 
+```python
+def main():
+    print("Python is alright")
+```
+
 ```javascript
 function js() {
     console.log("JavaScript is pain, but needed!");
