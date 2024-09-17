@@ -2,7 +2,7 @@
 
 ```lua
 return function Helloooooo()
-    print("I am a Roblox developer, so currently use Lua/LuaU as my main language!")
+    print("I am a Roblox developer, so I currently use Lua/LuaU as my main language!")
 end
 ```
 
