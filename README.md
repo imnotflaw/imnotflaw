@@ -1,11 +1,17 @@
 # Hey there, I am flaw!
 
+```lua
+return function Helloooooo()
+    print("I am a Roblox developer, so currently use Lua/LuaU as my main language!")
+end
+```
+
 ```javascript
-function hello() {
-    console.log("Hello, I sometimes use JavaScript");
+function js() {
+    console.log("JavaScript is pain, but needed!");
 }
 
-greet();
+js();
 ```
 ```cpp
 #include <iostream>
@@ -16,7 +22,6 @@ int main() {
 }
 ```
 ```csharp
-// Example C# code block
 public class CSharpIsAlsoCool
 {
     public static void Main(string[] args)
