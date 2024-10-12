@@ -1,7 +1,7 @@
 # Hey there, I am flaw!
 
 ```csharp
-public class CSharpIsAlsoCool
+public class CSharpIsCool
 {
     public static void Main(string[] args)
     {
@@ -18,12 +18,12 @@ end
 
 ```python
 def main():
-    print("Python is alright")
+    print("Python is alright... (nuh uhh)")
 ```
 
 ```javascript
 function js() {
-    console.log("JavaScript is pain, but needed!");
+    console.log("JavaScript is pain...");
 }
 
 js();
@@ -37,7 +37,6 @@ int main() {
 }
 ```
 
-```
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -47,18 +46,18 @@ int main() {
     <title>I am a front-end designer too!</title>
 </head>
 <body>
-    <h1>I enjoy vanilla HTML and CSS rather than using Bootstrap or other frameworks.</h1>
+    <h1>I love HTML and CSS.</h1>
 </body>
 </html>
-
 ```
+
 ```javascript
 import React from 'react';
 
 function App() {
     return (
         <div>
-            <h1>I also use React sometimes, it's really cool!</h1>
+            <h1>I also use React sometimes, even tho I would pick Vue at any time.</h1>
         </div>
     );
 }
