@@ -1,8 +1,17 @@
 # Hey there, I am flaw!
 
+```csharp
+public class CSharpIsAlsoCool
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("I recently switched to Unity, so this is my main language!");
+    }
+}
+
 ```lua
 return function Helloooooo()
-    print("I am a Roblox developer, so I currently use Lua/LuaU as my main language!")
+    print("I am a former Roblox developer, so I am really good with Lua/Luau!")
 end
 ```
 
@@ -26,14 +35,6 @@ int main() {
     return 0;
 }
 ```
-```csharp
-public class CSharpIsAlsoCool
-{
-    public static void Main(string[] args)
-    {
-        Console.WriteLine("I like it, will switch to it as my main language soon (Because of Unity!)");
-    }
-}
 
 ```
 ```html
